@@ -1,0 +1,78 @@
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: transparent;
+	background-image: url('./background.jpeg');
+	background-repeat: no-repeat;
+	background-size: cover;
+  }
+  
+  /* Header styles */
+  header {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+  }
+  
+  /* Section styles */
+  section {
+	background-color: rgba(255, 255, 255, 0.5);
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	margin-bottom: 20px;
+  }
+  
+  /* Skills and Services styles */
+  #skills, #services {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+  }
+  
+  /* Projects styles */
+  #projects {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	display: flex;
+	flex-wrap: wrap;
+  }
+  
+  /* Contact styles */
+  #contact {
+	background-color: rgba(255, 255, 255, 0.5);
+	padding: 20px;
+	border-radius: 10px;
+  }
+  
+  /* Footer styles */
+  footer {
+	background-color: #333;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+  }
+  
+  /* Additional styles */
+  .container {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+  }
+  
+  .button {
+	background-color: #337ab7;
+	color: #fff;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+  }
+  
+  .button:hover {
+	background-color: #23527c;
+  }
+  
+  
